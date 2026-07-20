@@ -46,8 +46,8 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/Fin-Flow-Loan-Management-System-Sprint.git
-cd Fin-Flow-Loan-Management-System-Sprint
+git clone https://github.com/YOUR_USERNAME/Loan-Management-System.git
+cd Loan-Management-System
 
 # Start infrastructure services
 docker-compose up mysql rabbitmq eureka-server config-server

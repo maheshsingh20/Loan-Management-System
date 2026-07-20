@@ -356,8 +356,8 @@ Microservice → Actuator → Prometheus → Grafana Dashboard
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Fin-Flow-Loan-Management-System-Sprint.git
-cd Fin-Flow-Loan-Management-System-Sprint
+git clone https://github.com/maheshsingh20/Loan-Management-System.git
+cd Loan-Management-System
 
 # Start all services
 docker-compose up --build
@@ -831,10 +831,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Akhil Rana**
+**Mahesh Singh**
 
-- GitHub: [@Akhil4104](https://github.com/Akhil4104)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/akhil-rana/)
+- GitHub: [@maheshsingh20](https://github.com/maheshsingh20)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/mahesh-singh/)
 
 ---
 
