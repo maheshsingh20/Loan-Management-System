@@ -834,7 +834,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Mahesh Singh**
 
 - GitHub: [@maheshsingh20](https://github.com/maheshsingh20)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/mahesh-singh/)
+- LinkedIn: [@maheshsingh20](https://www.linkedin.com/in/maheshsingh20/)
+- Email: singhmahesh2924@gmail.com
 
 ---
 
@@ -848,7 +849,8 @@ If you found this project helpful or learned something from it, please give it a
 
 For questions, suggestions, or collaboration opportunities:
 - Open an issue on GitHub
-- Email: your.email@example.com
+- Email: singhmahesh2924@gmail.com
+- LinkedIn: [@maheshsingh20](https://www.linkedin.com/in/maheshsingh20/)
 
 ---
 
